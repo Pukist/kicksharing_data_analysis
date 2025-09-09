@@ -24,10 +24,11 @@
 1.  Убедитесь, что у вас установлены Python и Git.
 2.  Клонируйте репозиторий:
     ```bash
-    git clone [https://github.com/ВАШЕ_ИМЯ/kicksharing_data_analysis.git](https://github.com/Pukist/kicksharing_data_analysis.git)
+    git clone [https://github.com/Pukist/kicksharing_data_analysis.git](https://github.com/Pukist/kicksharing_data_analysis.git)
     ```
 3.  Перейдите в папку проекта и установите необходимые библиотеки:
     ```bash
     pip install pandas matplotlib seaborn
     ```
+
 4.  Откройте файл `analysisss.ipynb` в Jupyter Notebook и запустите ячейки по порядку.
